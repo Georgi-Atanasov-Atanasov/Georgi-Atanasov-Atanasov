@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Georgi Atanasov
-- 👀 I’m interested in Web development and Machine learning
+- 👀 I’m interested in Python development and Machine learning
 - 🌱 I’m currently learning Python at SoftUni
